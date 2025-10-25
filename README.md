@@ -40,13 +40,7 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 ---
 
-## 📈 Contribution Graph  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
 
 ## 🚀 Featured Projects  
 
