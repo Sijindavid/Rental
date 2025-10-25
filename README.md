@@ -1,5 +1,5 @@
 # Sijin David Olang Makuach
-Hello world this is my profile <!-- Banner -->
+Hello Developers this is my profile...!  <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Sijin%20👋&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header" />
 </p>
@@ -8,8 +8,8 @@ Hello world this is my profile <!-- Banner -->
 
 ## 👨‍💻 About Me  
 I’m a **Software Engineer** passionate about building **scalable web apps, interactive UIs, and automation tools**.  
-- 🌱 Currently sharpening my **JavaScript & Python** skills.  
-- ⚡ Fun fact: I debug faster with ☕ coffee in hand.  
+- 🌱 Currently sharpening my **C++ ,JavaScript & Python** skills.  
+- ⚡  My Fun fact is I debug faster with ☕ coffee in hand.  
 - 💬 Ask me about **web development, clean code, and tech hacks**.  
 
 <p align="center">
@@ -52,16 +52,16 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 Portfolio Website](https://github.com/YOUR_GITHUB_USERNAME/portfolio) | A modern personal portfolio site | HTML, CSS, JS |
-| [⚡ Task Automation Scripts](https://github.com/YOUR_GITHUB_USERNAME/automation-scripts) | Python scripts that save time | Python |
-| [🎮 Mini JS Games](https://github.com/YOUR_GITHUB_USERNAME/js-games) | Fun browser-based games | JavaScript |
+| [🌐 Portfolio Website](https://github.com/Sijindavid/portfolio) | A modern personal portfolio site | HTML, CSS, JS |
+| [⚡ Task Automation Scripts](https://github.com/Sijindavid/automation-scripts) | Python scripts that save time | Python |
+| [🎮 Mini JS Games](https://github.com/Sijindavid/js-games) | Fun browser-based games | JavaScript |
 
 ---
 
 ## 📝 Templates & Repos to Check Out  
-- 🔖 [Starter HTML Templates](https://github.com/YOUR_GITHUB_USERNAME/html-templates)  
-- 🎨 [CSS Styling Components](https://github.com/YOUR_GITHUB_USERNAME/css-snippets)  
-- ⚙️ [Reusable Python Utilities](https://github.com/YOUR_GITHUB_USERNAME/python-utils)  
+- 🔖 [Starter HTML Templates](https://github.com/Sijindavid/html-templates)  
+- 🎨 [CSS Styling Components](https://github.com/Sijindavid/css-snippets)  
+- ⚙️ [Reusable Python Utilities](https://github.com/Sijindavid/python-utils)  
 
 ---
 
@@ -76,13 +76,13 @@ I’m a **Software Engineer** passionate about building **scalable web apps, int
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sijin-david-olang-makuach-b562ba376?utm_source=share&utm_campaign=share_via&utm_content=profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:sijinulang@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+  <a href="https://x.com/sijin211?s=21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
